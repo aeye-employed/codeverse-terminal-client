@@ -28,7 +28,7 @@ setup(
     python_requires=">=3.8",
     author="IBDA AI LTD",
     author_email="contact@ibda.me",
-    url="https://codeverse.ibda.me",
+    url="https://github.com/aeye-employed/codeverse-terminal-client",
     description="Local CLI client for CodeVerse Terminal - AI-powered development platform by IBDA AI LTD",
     long_description=open("README.md").read() if os.path.exists("README.md") else "",
     long_description_content_type="text/markdown",
